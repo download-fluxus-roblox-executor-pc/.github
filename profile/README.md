@@ -62,12 +62,6 @@ This **Roblox Executor for PC** is a lightweight and functional Lua script assis
 🧼 Full removal by deleting the folder  
 🔧 Includes config for theme and script directory  
 
----
-
-## 🖼
-
-![Executor Interface](https://github.com/falafox2020/Swift/raw/main/assets/Swift.jpg)  
-
 
 ---
 
